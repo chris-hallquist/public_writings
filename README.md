@@ -1,0 +1,1 @@
+Hi! This is a "project" I made as a place to store writings that don't fit in any of the other places I write, especially if I wanted to write it in [Markdown](http://daringfireball.net/projects/markdown/syntax) for some reason.
